@@ -100,6 +100,9 @@
 			children = (
 				49A8F109272AA6C700A4D618 /* PackyApp.swift */,
 				49A8F10B272AA6C700A4D618 /* ContentView.swift */,
+				49A8F13A272AAC8100A4D618 /* ViewModels */,
+				49A8F139272AAC5A00A4D618 /* Models */,
+				49A8F138272AAC4800A4D618 /* Views */,
 				49A8F10D272AA6C900A4D618 /* Assets.xcassets */,
 				49A8F112272AA6C900A4D618 /* Persistence.swift */,
 				49A8F114272AA6C900A4D618 /* Packy.xcdatamodeld */,
@@ -131,6 +134,27 @@
 				49A8F12B272AA6C900A4D618 /* PackyUITestsLaunchTests.swift */,
 			);
 			path = PackyUITests;
+			sourceTree = "<group>";
+		};
+		49A8F138272AAC4800A4D618 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		49A8F139272AAC5A00A4D618 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		49A8F13A272AAC8100A4D618 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
